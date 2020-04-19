@@ -1,0 +1,9 @@
+name: Hi
+main: Groovy.SpigotTest.Main
+version: 1.0
+commands:
+  hi:
+    description: says Hi to the user of this command
+    aliases:
+      - Hello
+      - hello
