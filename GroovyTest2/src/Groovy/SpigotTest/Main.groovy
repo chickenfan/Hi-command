@@ -11,5 +11,5 @@ class Main extends  JavaPlugin{
     }
 
     @Override
-    voidt onDisable() {}
+    void onDisable() {}
 }
